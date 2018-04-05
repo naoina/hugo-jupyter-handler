@@ -2,6 +2,8 @@
 
 Jupyter Handler for [Hugo](https://gohugo.io/).
 
+**Deprecated: This product does not work for latest version of Hugo.**
+
 ## Installation
 
 ```bash

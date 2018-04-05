@@ -2,7 +2,7 @@
 
 Jupyter Handler for [Hugo](https://gohugo.io/).
 
-**Deprecated: This product does not work for latest version of Hugo.**
+**Deprecated: This product does not work for latest version of Hugo. Instead, you can define and use the shortcode like [this](https://github.com/naoina/kuune.org/blob/master/layouts/shortcodes/jupyter_notebook.html).**
 
 ## Installation
 
